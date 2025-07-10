@@ -1,3 +1,5 @@
+https://github.com/mhizzuddin/pwl3.git
+git remote add origin https://github.com/mhizzuddin/pwl3.git
 # run
 php spark serve
 # Dokumentasi Fitur CodeIgniter 4
