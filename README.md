@@ -1,19 +1,9 @@
-# 🏥 Sistem Informasi Poliklinik 
-### *Digital Healthcare Revolution* ✨
 
 ---
 
 <div align="center">
   
-  ![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-12.0-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![AdminLTE](https://img.shields.io/badge/AdminLTE-3.2-00A4EF?style=for-the-badge&logo=adminlte&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-  **🎓 Karya**: Fatwa Reksa Aji Pradana  
-  **📋 NIM**: A11.2022.14393  
-  **📚 Mata Kuliah**: Bengkel Koding  
-  **⭐ Version**: 1.0.0
 
 </div>
 
